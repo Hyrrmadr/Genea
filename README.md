@@ -21,3 +21,7 @@ Here is a simple example of a .genea file (just plain text):
 # Tests
 
 In the tests/ directory, you will find an example .genea file and a few Ruby testing files.
+
+# Author
+
+Created by [Louis Brunner](https://github.com/Hyrrmadr).
